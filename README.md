@@ -3,6 +3,7 @@
 <img width="1361" height="429" alt="image" src="https://github.com/user-attachments/assets/3b0d4fc0-5ad0-454b-961b-eda3e10e69fb" />
 
 
+
 website link - scuderiaf1.netlify.app
 
 
@@ -49,4 +50,6 @@ To create an immersive digital experience that captures the speed, engineering p
 ## 📄 License
 This project is for educational and portfolio purposes only. Ferrari, Formula 1, and all related trademarks belong to their respective owners.
 
+Made with ❤️
 
+Engineered for Speed
