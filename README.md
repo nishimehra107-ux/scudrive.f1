@@ -1,5 +1,7 @@
 <img width="1360" height="639" alt="image" src="https://github.com/user-attachments/assets/e155de7d-8f88-4bf8-9ee8-d1638ed5bb9b" />
+<img width="1366" height="620" alt="image" src="https://github.com/user-attachments/assets/a63d2b15-1ff7-426f-b039-78e8bae47d69" />
 <img width="1361" height="429" alt="image" src="https://github.com/user-attachments/assets/3b0d4fc0-5ad0-454b-961b-eda3e10e69fb" />
+
 
 website link - scuderiaf1.netlify.app
 
